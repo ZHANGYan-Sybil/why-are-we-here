@@ -1,2 +1,1 @@
-# why-are-we-here
-Zhang Yan Assignment 1
+# Why Are We Here?
